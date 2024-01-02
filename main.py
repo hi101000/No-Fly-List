@@ -1,6 +1,5 @@
 import random
 import namemaker
-from pandas import *
 
 def make_seed():
     ''' Makes a random string for use as an RNG seed.'''
